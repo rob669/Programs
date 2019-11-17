@@ -1,0 +1,32 @@
+{
+margin-left: -15px;
+}
+ 
+#buttons .lotsofcontent,
+#buttons > *,
+input[type=submit]
+{
+border-radius: .3rem;
+}
+ 
+a:hover,
+a:focus
+{
+color: green;
+}
+
+
+
+
+<a href="https://www.w3schools.com/">W3Schools.com</a>
+(function(){
+
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+	HTML
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
